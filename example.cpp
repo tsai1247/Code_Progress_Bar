@@ -1,11 +1,11 @@
 #include "progress.h"
 #include<thread>
 #include<chrono>
-#include<bits/stdc++.h>
-#include<windows.h>
 
 using namespace progress;
 using namespace std;
+
+
 
 int main()
 {
